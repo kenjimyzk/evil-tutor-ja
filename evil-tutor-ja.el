@@ -6,7 +6,7 @@
 ;; Keywords: convenience editing evil Japanese
 ;; Created: 10 Sep 2016
 ;; Version: 0.1
-;; Package-Requires: ((evil "1.0.9")(evil-tutor "0.1"))
+;; Package-Requires: ((evil "1.0.9") (evil-tutor "0.1"))
 ;; URL: https://github.com/kenjimyzk/evil-tutor-ja
 
 ;; This file is not part of GNU Emacs.
