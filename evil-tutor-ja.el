@@ -1,4 +1,4 @@
-;;; evil-tutor.el --- Japanese Vimtutor adapted to Evil and wrapped in a major-mode
+;;; evil-tutor-ja.el --- Vimtutor adapted to Evil and wrapped in a major-mode
 
 ;; Copyright (C) 2016 kenjimyzk
 ;;
@@ -6,8 +6,7 @@
 ;; Keywords: convenience editing evil Japanese
 ;; Created: 10 Sep 2016
 ;; Version: 0.1
-;; Package-Requires: ((evil "1.0.9"))
-;; Package-Requires: ((evil-tutor "0.1"))
+;; Package-Requires: ((evil "1.0.9")(evil-tutor "0.1"))
 ;; URL: https://github.com/kenjimyzk/evil-tutor-ja
 
 ;; This file is not part of GNU Emacs.
