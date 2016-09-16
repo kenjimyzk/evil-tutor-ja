@@ -1,9 +1,9 @@
-;;; evil-tutor.el --- Vimtutor adapted to Evil and wrapped in a major-mode
+;;; evil-tutor.el --- Japanese Vimtutor adapted to Evil and wrapped in a major-mode
 
 ;; Copyright (C) 2016 kenjimyzk
 ;;
 ;; Author: Kenji Miyazaki <kenjizmyzk@gmail.com>
-;; Keywords: convenience editing evil
+;; Keywords: convenience editing evil Japanese
 ;; Created: 10 Sep 2016
 ;; Version: 0.1
 ;; Package-Requires: ((evil "1.0.9"))
