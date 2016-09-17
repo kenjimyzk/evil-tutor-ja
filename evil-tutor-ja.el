@@ -1,4 +1,4 @@
-;;; evil-tutor-ja.el --- Vimtutor adapted to Evil and wrapped in a major-mode
+;;; evil-tutor-ja.el --- Japanese Vimtutor adapted to Evil and wrapped in a major-mode
 
 ;; Copyright (C) 2016 kenjimyzk
 ;;
