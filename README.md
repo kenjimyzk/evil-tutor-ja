@@ -1,5 +1,5 @@
 # evil-tutor-ja
-<!-- [![MELPA](http://melpa.org/packages/evil-tutor-badge.svg)](http://melpa.org/#/evil-tutor) [![MELPA Stable](http://stable.melpa.org/packages/evil-tutor-badge.svg)](http://stable.melpa.org/#/evil-tutor) -->
+[![MELPA](https://melpa.org/packages/evil-tutor-ja-badge.svg)](https://melpa.org/#/evil-tutor-ja)
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc/generate-toc again -->
 **Table of Contents**
