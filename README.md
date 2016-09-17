@@ -33,7 +33,7 @@ to `~/.emacs.d/.tutor-ja`)
 
 ### Package manager
 
-You can either install `evil-tutor-ja` from [MELPA][] (_available soon_):
+You can either install `evil-tutor-ja` from [MELPA](https://melpa.org/#/evil-tutor-ja):
 
 ```
  M-x package-install evil-tutor-ja
